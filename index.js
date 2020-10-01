@@ -46,4 +46,7 @@ function decrement(n) {
 }
 decrement(6)
 
-makeInt('20',10)
+function makeInt(n) {
+  return parseInt('n',10)
+}
+makeInt(5)
