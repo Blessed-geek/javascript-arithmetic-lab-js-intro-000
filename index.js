@@ -49,4 +49,4 @@ decrement(6)
 function makeInt(n) {
   return parseInt(n,10)
 }
-makeInt(5)
+makeInt('5')
